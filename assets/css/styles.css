@@ -16,9 +16,4 @@ body{
     padding-right: 2em;
 }*/
 
-@media(max-width: 430px){
-    .narvar-toggler-icon{
-       display: none;
-    }
-}
 
